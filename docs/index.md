@@ -1,7 +1,21 @@
-# Welcome to MkDocs
+# Introduction
+This is a guide on how to flesh out your very own trello page on the trello website! :smile:
+
+
+# Intended Users
+
+
+# Prerequisite Knowledge
+- Have an account on the trello website.
+
+
+# Software Requirements
+
+
+# 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
+mk
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
