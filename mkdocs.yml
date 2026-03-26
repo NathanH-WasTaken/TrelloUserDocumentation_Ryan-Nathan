@@ -26,6 +26,13 @@ theme:
       primary: dark blue
       accent: deep orange
 
+nav: # Configure order of navigation
+  - index.md
+  - create-list.md
+  - integrate-apps.md
+  - troubleshooting.md
+  - glossary.md
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
