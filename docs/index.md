@@ -15,6 +15,30 @@ with each other by organizing tasks and information into lists with cards to eas
 
 # Software Requirements
 
+Before using these instructions, ensure you have the following:
+
+- A device with a modern web browser (Google Chrome, Firefox, Microsoft Edge, or Safari)
+- A stable internet connection
+- A Trello account (free accounts are accepted)
+
+---
+
+## Notes and Warning Messages
+
+Throughout the documentation, we will use message blocks to inform you of relevant information. 
+
+Each possible message block, from most important to least important:
+!!! danger "Danger"
+    Specifies actions that may cause an error or will cause the application to crash.
+
+!!! warning "Warning"
+    Specifies content that must be read before proceeding.
+
+!!! info "Info"
+    Indicates additional information or tips.
+
+!!! success "Success"
+    Indicates what success looks like.
 
 # Overview
 
