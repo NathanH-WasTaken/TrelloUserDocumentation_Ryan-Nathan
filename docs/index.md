@@ -32,7 +32,7 @@ Before using these instructions, ensure you have the following:
 ---
 
 
-# Overview
+## Overview
 This guide will teach users how to:
 1. Create and populate a list.
 2. Integrate Slack/Discord into Trello.
