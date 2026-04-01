@@ -28,8 +28,8 @@ theme:
 
 nav: # Configure order of navigation
   - index.md
-  - create-list.md
   - add-member-to-board.md
+  - create-list.md
   - integrate-apps.md
   - troubleshooting.md
   - glossary.md

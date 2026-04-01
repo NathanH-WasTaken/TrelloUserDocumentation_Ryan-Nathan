@@ -58,11 +58,17 @@ details of each task clearly.
 9. (Optional) Repeat tasks 1-8 for each card you want to customize. Move on when finished.
 
 !!! success "Success"
-    If the list looks like this, you have succeeded.
+    If the cards look like this, you have succeeded.
 
     ![Image of a successfully created list](assets/CustomizeSuccess.png){ height="200" }
 
 
+## Conclusion
+
+If you have followed these instructions, you should have a fully created list of tasks for your teammates to do.
+
+!!! success "Success"
+    You can now create a list, populate it with cards, and customize the cards to fit your needs.
 
 
 
