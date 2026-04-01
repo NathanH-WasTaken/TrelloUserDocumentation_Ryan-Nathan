@@ -9,7 +9,7 @@ details of each task clearly.
 !!! warning "Warning"
     Reminder that you must have created and entered into an empty Trello board before proceeding with these steps.
 
-## Basic List
+## Creating a list
 
 1. **Click** the [Add a list] box located in the top left under your Trello board name.
 
@@ -37,7 +37,7 @@ details of each task clearly.
 
     ![Image of a successfully created list](assets/CardSuccess.png){ height="200" }
 
-## Card Customization
+## Customizing a Card
 
 1. On a pre-existing card, **hover** over the [Card Name] and **click** on the  :fontawesome-solid-edit:  icon that appears on the top right of the card.
 
