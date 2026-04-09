@@ -7,8 +7,6 @@ a pre-built template. By the end of this task, you will have a
 ready-to-use board with lists and structure already set up for you,
 saving you the time of building a board from scratch.
 
-These instructions are intended for CST students with no prior
-experience using Trello.
 
 !!! info "Info"
     Templates are created by Trello and its community. They come
