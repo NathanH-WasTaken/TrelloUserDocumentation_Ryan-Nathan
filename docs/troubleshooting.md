@@ -29,7 +29,7 @@ solution.
 | The [Templates] option is not visible in the top navigation bar. | Your browser window is too narrow and the option is hidden. | Expand your browser window or scroll the navigation bar to the right to find the [Templates] option. |
 | The template search returns no results. | The keyword used is too specific or contains a typo. | Try a broader keyword such as *project* or *team* and search again. |
 | The [Use template] button is greyed out. | You are not logged in to your Trello account. | **Click** [Log In] in the top right corner, enter your credentials, and return to the template page. |
-| Your board was created with an empty title. | The [Board title] field was left blank before clicking [Create]. | **Click** the board title at the top of the board, **type** a new name, then **press** Enter to save it. |
+| Your board was created with an empty title. | The [Board title] field was left blank before clicking [Create]. | **Click** the board title at the top of the board, **type** a new name then **press** Enter to save it. |
 | The template lists and cards look different from the preview. | Trello community templates are updated by their creators over time. | Review the current lists and rename or delete any that do not fit your project. All lists and cards are fully editable. |
 
 ---
