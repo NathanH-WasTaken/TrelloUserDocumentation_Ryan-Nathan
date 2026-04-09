@@ -28,9 +28,9 @@ theme:
 
 nav: # Configure order of navigation
   - index.md
-  - add-member-to-board.md
-  - create-list.md
   - create-board-from-template.md
+  - create-list.md
+  - add-member-to-board.md
   - integrate-slack.md
   - troubleshooting.md
   - glossary.md
