@@ -15,7 +15,9 @@ details of each task clearly.
 
     ![Image showing the location of [Add a list].](assets/add-list.png "Adding a list to trello board"){ height="200" }
 
-2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List), then **click** [Add list].
+2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. *To-Do List*).
+
+3. **Click** [Add list] after choosing a suitable name.
 
 
 !!! success "Success"
@@ -27,18 +29,24 @@ details of each task clearly.
 
 1. **Click** [Add a card] which appears below the newly created list.
 
-2. **Type** A meaningful title for a task where it prompts you to enter a title (e.g. Create Home Page), then **click** [Add card].
+    ![Image showing the location of [Add a card].](assets/add-card.png "Adding a card to the list"){ height="200" }
 
-3. (Optional) Repeat tasks 1-2 to create as many cards of tasks as you want. Move on when finished.
+2. **Type** A meaningful title for a task where it prompts you to enter a title (e.g. *Create Home Page*). 
+
+3. **Click** [Add card] after choosing a suitable title.
+
+    ![Image showing the process of creating a card.](assets/add-card2.png "Process of adding a card to the list"){ height="200" }
+
+4. (Optional) Repeat tasks 1-3 to create as many cards of tasks as you want. Move on when finished.
 
 !!! success "Success"
     If the list looks like this, you have succeeded.
 
-    ![Image of a successfully created list](assets/CardSuccess.png "A list of succesfully created cards"){ height="200" }
+    ![Image of a successfully created list with cards](assets/CardSuccess.png "A list of succesfully created cards"){ height="200" }
 
 ## Customizing a Card
 
-1. On a pre-existing card, **hover** over the [Card Name] and **click** on the  :fontawesome-solid-edit:  icon that appears on the top right of the card.
+1. **Hover** over an existing card and **click** on the  :fontawesome-solid-edit:  icon that appears on the top right of the card.
 
     ![Image of mouse hovering over the [edit card] icon](assets/click-edit-card.png "The [edit card] icon"){ height="200" }
 
@@ -55,13 +63,20 @@ details of each task clearly.
 
     ![Image of filling out the options within label creation](assets/creating-label.png "Finishing creating the label of a card"){ height="200" }
 
-6. **Click** [Dates] and choose or enter a date for when the task is due.
+6. **Click** [Dates].
 
-7. **Click** Save.
+7. **Choose** a date for when the task is due.
 
-8. **Click** the  :octicons-x-12:  icon on the top right of the card when finished.
+    ![Image of filling out the options for the date](assets/dates.png "Options for choosing a date"){ height="200" }
 
-9. (Optional) Repeat tasks 1-8 for each card you want to customize. Move on when finished.
+8. **Click** Save.
+
+9. **Click** the  :octicons-x-12:  icon on the top right of the card when finished.
+
+10. (Optional) Repeat tasks 1-8 for each card you want to customize. Move on when finished.
+
+    !!! info "Info"
+        There are more features and customizations you can make for your Trello cards, including adding checklists or attachments. The documentation does not cover this, but consider familiarizing yourself with them to be more proficient in using Trello.
 
 !!! success "Success"
     If the cards look like this, you have succeeded.
