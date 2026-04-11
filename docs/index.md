@@ -1,17 +1,18 @@
 ## Introduction
 This is a guide for users to flesh out their very own [Trello](https://www.trello.com) page. Trello is website used for users to collaborate
-with each other by organizing tasks and information into lists with cards to easily view. It has a wide variety of features such as pre-made board templates, integrating apps like [Slack](https://slack.com/), and managing your own lists and members. This documentation guide will teach you some of the basics of Trello to ensure you can be ready to use this website for your projects.
+with each other by organizing tasks and information into [lists](glossary.md) with [cards](glossary.md) to easily view. It has a wide variety of features such as pre-made board [templates](glossary.md), integrating apps like [Slack](https://slack.com/), and managing your own lists and members. This documentation guide will teach you some of the basics of Trello to ensure you can be ready to use this website for your projects.
 
 
 ## Intended Users
 - Software developers needing to organize information
 - Users with no knowledge in how to use Trello
+- 1st Year CST students looking for a collaborative tool for project management
 
 
 ## Prerequisite Knowledge
-- Have an account on the trello website.
-- Have a trello page opened.
-- Have a [Slack account](https://slack.com/).
+- Have a [Trello](https://www.trello.com) account.
+- Have familiarity with the terms in the [glossary](glossary.md).
+- Have a [Slack](https://slack.com/) account.
 
 
 ## Software Requirements
@@ -20,7 +21,6 @@ Before using these instructions, ensure you have the following:
 
 - A device with a modern web browser (Google Chrome, Firefox, Microsoft Edge, or Safari)
 - A stable internet connection
-- A Trello account (free accounts are accepted)
 
 
 ## Overview
@@ -45,7 +45,7 @@ These instructions use the following typographic conventions:
 | **User Input:** Text you need to type yourself is shown in italics. | *My Project Board*, *To Do*, *In Progress* |
 
 
-## Notes and Warning Messages
+## Admonitions
 
 Throughout the documentation, we will use message blocks to inform you of relevant information. 
 

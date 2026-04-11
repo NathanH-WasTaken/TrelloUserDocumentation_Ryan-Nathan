@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section will teach you how to connect Trello to your [Slack account](https://slack.com/) in order to send cards with tasks to a channel in Slack.
+This section will teach you how to connect Trello to your [Slack account](https://slack.com/) in order to send cards with tasks to a channel or person in Slack.
 
 ## Add Slack to Trello
 
