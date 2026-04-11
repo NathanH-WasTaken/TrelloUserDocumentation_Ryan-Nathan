@@ -14,6 +14,9 @@ This section will teach you how to connect Trello to your [Slack account](https:
 
     ![Image of searching Slack in the search bar](assets/search-slack.png "Entering "Slack" into the search bar"){ height="200" }
 
+    !!! info "Info"
+        Trello has many apps and websites you can integrate and connect to. Visit this [trello integrations](https://trello.com/integrations) page to learn more.
+
 4. Once found, **click** on Slack and then **click** [Add].
 
 5. Sign in to your Slack workspace, if no such prompt appears, you may skip this step and step 6.

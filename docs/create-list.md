@@ -13,6 +13,8 @@ details of each task clearly.
 
 1. **Click** [Add a list] located in the top left under your Trello board name.
 
+    ![Image showing the location of [Add a list].](assets/add-list.png "Adding a list to trello board"){ height="200" }
+
 2. **Type** a meaningful list name where it prompts you to enter the list name (e.g. To-Do List), then **click** [Add list].
 
 
