@@ -25,6 +25,7 @@ Before using these instructions, ensure you have the following:
 
 ## Overview
 This guide will teach users how to:
+
 1. [Creating a Board From a Template](create-board-from-template.md)
 
 2. [Creating a To Do list](create-list.md)
